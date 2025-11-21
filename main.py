@@ -34,6 +34,7 @@ def main():
         # TODO: imprimir "Error: La altura debe ser un numero entero" y salir
         print("Error: La altura debe ser un numero entero")
         return
+        pass
 
     # TODO: llamar a la función triangulo_simetrico con los parámetros m y s
 triangulo_simetrico(m,s)
